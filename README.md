@@ -1,0 +1,2 @@
+# ISIC-2024_skin_cancer_detection
+ISIC 2024_skin_cancer_detection_kaggle
